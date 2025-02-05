@@ -1,14 +1,16 @@
-TL;DR Use / in the file name field to create folder(s), e.g. typing folder1/file1 in the file name field will create a folder folder1 and a file file1.
 
-Original answer
-You cannot create an empty folder and then add files to that folder, but rather creation of a folder must happen together with adding of at least a single file. This is because git doesn't track empty folders.
+## Answer  
+You **cannot** create an empty folder and then add files to it later. Git does not track empty folders. Instead, a folder is created when you add at least one file inside it.
 
-On GitHub you can do it this way:
+### Steps to Create a Folder on GitHub:
+1. Navigate to the folder where you want to create a subfolder.
+2. Click on **"Add file"** → **"Create new file"**.
+3. In the file name field, type the folder name followed by a `/` (e.g., `my-folder/`).
+4. Type the file name (e.g., `.gitkeep`).  
+   - **Note:** `.gitkeep` is a common convention used to make Git track otherwise empty folders. It is not an official Git feature.
+5. Add any content (optional).
+6. Click **"Commit new file"**.
 
-Go to the folder inside which you want to create another folder
-Click on New file
-On the text field for the file name, first write the folder name you want to create
-Then type /. This creates a folder
-You can add more folders similarly
-Finally, give the new file a name (for example, .gitkeep which is conventionally used to make Git track otherwise empty folders; it is not a Git feature though)
-Finally, click Commit new file.
+Now, the new folder will be visible in the repository. 🚀
+
+[Source:](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository)
