@@ -1,3 +1,79 @@
+## ✅ Tools that support full-day scheduling + reminders / time-blocks
+
+### **TickTick**
+
+* TickTick lets you plan tasks with exact times and even view them in a calendar-style day/week view. ([Focuzed][1])
+* You can set reminders for tasks (start time, due time, recurring) so that you get alerted when it’s time to start — and if you don’t complete the task, the reminder stays/overdue status helps you notice. ([Google Play][2])
+* Works on Web, Windows/Mac (desktop or browser), Android — so works across PC + phone. ([PlanWiz][3])
+  **Good if:** you want day-scheduling + reminders + cross-device sync + ability to handle many tasks/projects.
+
+---
+
+### **Structured** (Day-Planner / Time-blocking tool)
+
+* Structured lets you split your day into “time blocks” or “slots” and visualize in a timeline (calendar-style), which matches exactly your need: schedule start & end times for tasks. ([structured.app][4])
+* You can plan the whole day in the morning, see all slots lined up, and get reminders as per your schedule. ([structured.app][4])
+* Good for people juggling many different kinds of tasks (work, reading, personal, study) and wanting a clear “day-at-a-glance” layout.
+  **Good if:** you prefer a timeline (hour-by-hour) view for your day — more like a planner than a simple to-do list.
+
+---
+
+### **Any.do**
+
+* Any.do, while simpler, allows you to schedule tasks with due-dates and time-based reminders. ([Any.do][5])
+* If you don’t need heavy features or complex scheduling — just basic day-plans + reminders — Any.do may suffice.
+  **Good if:** you prefer minimal setup, straightforward interface, and simplicity.
+
+---
+
+### **Combination of Calendar + To-Do Apps (e.g. calendar + reminders strategy)**
+
+You can also use calendar-based planning tools (like Google Calendar or any standard calendar) together with a to-do app (TickTick / Any.do). The workflow could be:
+
+* Plan your day in the morning (slots in Calendar or Structured)
+* Use a to-do/reminder app for alerts and due-time reminders
+* Helps track both **start times** and **deadlines / end times**
+
+This is less “all-in-one” but gives flexibility.
+
+---
+
+## ⚠️ What to check when picking such tools
+
+* Can you assign **exact start and end times** (not just “due date/time”)?
+* Does the app support **reminders at start and/or due (end)**?
+* Cross-device sync (PC + Android) — important if you use both laptop and phone.
+* Visual day-planner/timeline or calendar view — helps if you have many blocks in a day.
+* Flexibility — for recurring tasks, varied tasks (study, work, personal), and overlapping time-blocks.
+
+---
+
+## 🎯 My Recommendation for you (Based on your habit)
+
+Since you said:
+
+> you forget important work because you spend a lot of time browsing on laptop
+
+You need **scheduling + enforced reminders + cross-device sync + visual clarity**.
+
+So I recommend trying **TickTick** first — it’s powerful, flexible, and widely used.
+If you like visual day-planning, try **Structured**.
+
+If you prefer simplicity, **Any.do** can work as a lightweight option.
+
+---
+
+
+[1]: https://focuzed.io/blog/best-reminder-apps/?utm_source=chatgpt.com "Best Reminder Apps to Actually Stay on Track in 2025"
+[2]: https://play.google.com/store/apps/details/TickTick_To_do_list_Tasks?hl=en_NZ&id=com.ticktick.task&utm_source=chatgpt.com "TickTick:To Do List & Calendar"
+[3]: https://blog.planwiz.app/top-daily-routine-apps/?utm_source=chatgpt.com "Top 10 Daily Routine Apps to Use in 2026"
+[4]: https://structured.app/?utm_source=chatgpt.com "Structured Daily Planner: Optimize Your Time Management"
+[5]: https://www.any.do/?utm_source=chatgpt.com "A simple to do list for you and your team"
+
+---
+---
+---
+
 ## ✅ Good free (or freemium) tools for task scheduling & reminders
 
 ### **Todoist**
